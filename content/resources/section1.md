@@ -4,6 +4,7 @@ description: This resource discusses general circulation of the earth?s atmosphe
   and vertical and latitudinal structure of the zonal mean state of the atmosphere.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/d4d0725dfe53012d91048bd16c59416f_section1.pdf
 file_type: application/pdf
+parent_uid: 8f10b96a-3d6f-7061-af35-633011a45469
 resourcetype: Document
 title: section1.pdf
 uid: d4d0725d-fe53-012d-9104-8bd16c59416f

@@ -5,6 +5,7 @@ description: This resource includes information on zonal mean general circulatio
   angular momentum, and momentum balance in Quasi-geostrophic models.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/d2d8abbaec134a4cc1addcc0f3d838d3_section3.pdf
 file_type: application/pdf
+parent_uid: 8f10b96a-3d6f-7061-af35-633011a45469
 resourcetype: Document
 title: section3.pdf
 uid: d2d8abba-ec13-4a4c-c1ad-dcc0f3d838d3
